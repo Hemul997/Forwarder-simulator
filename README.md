@@ -16,13 +16,15 @@ Enviromental parameters(sortment size, lighting) changes depending on the work r
 	
 	1. Fork this project from github repository
 	2. Open folder with current project in Unity 3D
-	3. Download and install Steam VR plugin in assetstore
+	3. Download and install Steam VR plugin in Assetstore
 	4. Connect two joysticks Defender Cobra M5
 	4. Profit!
 
 ## Authors
 - **Nikita Moshkin** - *Creator of this project* -
 [Hemul997](https://github.com/Hemul997)
+- **Andrey Glazyrin** - *Creator of this project* -
+[glazyrinae](https://github.com/glazyrinae)
 
 ## Screenshots
 ![Forwarder 3d model](/img/screenshots/3d-forwarder-view.jpg "Forwarder 3D Model")
